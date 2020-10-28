@@ -10,12 +10,16 @@ informações sobre bolsas e auxílios, biblioteca universitária, restaurante u
 intracampus, além de dados sobre os oito cursos e os projetos de extensão e oportunidades
 em cada um deles.
 
-<img src="img/img1.jpg" width="300">
-<img src="img/img1.jpg" width="300">
-![alt-text-1](img/img1.jpg "title-1") ![alt-text-2](img/img1.jpg "title-2")
 
 <p float="left">
-  <img src="img/img1.jpg" width="100" />
-  <img src="img/img1.jpg" width="100" /> 
-  <img src="img/img1.jpg" width="100" />
+  <img src="img/img7.jpg" width="300" />
+  <img src="img/img6.jpg" width="300" /> 
+  <img src="img/img10.jpg" width="300" />
 </p>
+
+<p float="left">
+  <img src="img/img1.jpg" width="300" />
+  <img src="img/img9.jpg" width="300" /> 
+  <img src="img/img3.jpg" width="300" />
+</p>
+

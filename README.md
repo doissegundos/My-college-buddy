@@ -11,10 +11,13 @@ intracampus, além de dados sobre os oito cursos e os projetos de extensão e op
 em cada um deles.
 
 
-<img src = "img/img1.jpg" height = "400">
-<img src = "img/img2.jpg" height = "400">
-<img src = "img/img3.jpg" height = "400">
-<img src = "img/img4.jpg" height = "400">
-<img src = "img/img5.jpg" height = "400">
-<img src = "img/img6.jpg" height = "400">
-<img src = "img/img7.jpg" height = "400">
+	<div style="float: left; width: 10%;">
+		<div>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Goldensondika.jpg">
+		</div>
+	</div>
+	<div style="float: right; width: 10%;">
+		<div>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Goldensondika.jpg">
+		</div>
+	</div>

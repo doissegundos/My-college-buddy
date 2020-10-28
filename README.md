@@ -11,5 +11,4 @@ intracampus, além de dados sobre os oito cursos e os projetos de extensão e op
 em cada um deles.
 
 ![Img1](img/img1.jpg) ![Img1](img/img1.jpg)
-[![inserir a descrição da imagem aqui][img/img1.jpg]][1]
-[![inserir a descrição da imagem aqui][img/img1.jpg]][1]
+<img src="img/img1.jpg" width="30">

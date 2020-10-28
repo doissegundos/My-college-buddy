@@ -10,14 +10,4 @@ informações sobre bolsas e auxílios, biblioteca universitária, restaurante u
 intracampus, além de dados sobre os oito cursos e os projetos de extensão e oportunidades
 em cada um deles.
 
-
-	<div style="float: left; width: 10%;">
-		<div>
-			<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Goldensondika.jpg">
-		</div>
-	</div>
-	<div style="float: right; width: 10%;">
-		<div>
-			<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Goldensondika.jpg">
-		</div>
-	</div>
+![Img1](img/img1.jpg)

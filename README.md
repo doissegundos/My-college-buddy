@@ -12,14 +12,14 @@ em cada um deles.
 
 
 <p float="left">
-  <img src="img/img7.jpg" width="300" />
-  <img src="img/img6.jpg" width="300" /> 
-  <img src="img/img10.jpg" width="300" />
+  <img src="img/img7.jpg" width="200" />
+  <img src="img/img6.jpg" width="200" /> 
+  <img src="img/img10.jpg" width="200" />
 </p>
 
 <p float="left">
-  <img src="img/img1.jpg" width="300" />
-  <img src="img/img9.jpg" width="300" /> 
-  <img src="img/img3.jpg" width="300" />
+  <img src="img/img1.jpg" width="200" />
+  <img src="img/img9.jpg" width="200" /> 
+  <img src="img/img3.jpg" width="200" />
 </p>
 

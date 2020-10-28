@@ -13,3 +13,9 @@ em cada um deles.
 <img src="img/img1.jpg" width="300">
 <img src="img/img1.jpg" width="300">
 ![alt-text-1](img/img1.jpg "title-1") ![alt-text-2](img/img1.jpg "title-2")
+
+<p float="left">
+  <img src="img/img1.jpg" width="100" />
+  <img src="img/img1.jpg" width="100" /> 
+  <img src="img/img1.jpg" width="100" />
+</p>

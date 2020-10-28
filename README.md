@@ -9,3 +9,5 @@ Deste modo, o aplicativo desenvolvido com o framework Ionic, abordará
 informações sobre bolsas e auxílios, biblioteca universitária, restaurante universitário,
 intracampus, além de dados sobre os oito cursos e os projetos de extensão e oportunidades
 em cada um deles.
+
+<img src = "img/img1.jpg">

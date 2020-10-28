@@ -10,4 +10,4 @@ informações sobre bolsas e auxílios, biblioteca universitária, restaurante u
 intracampus, além de dados sobre os oito cursos e os projetos de extensão e oportunidades
 em cada um deles.
 
-![Img1](img/img1.jpg)
+![Img1](img/img1.jpg) ![Img1](img/img1.jpg)

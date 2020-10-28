@@ -12,3 +12,9 @@ em cada um deles.
 
 
 <img src = "img/img1.jpg" height = "400">
+<img src = "img/img2.jpg" height = "400">
+<img src = "img/img3.jpg" height = "400">
+<img src = "img/img4.jpg" height = "400">
+<img src = "img/img5.jpg" height = "400">
+<img src = "img/img6.jpg" height = "400">
+<img src = "img/img7.jpg" height = "400">
